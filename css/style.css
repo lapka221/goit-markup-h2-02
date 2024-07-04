@@ -34,14 +34,17 @@ h1 {
 .header {
   background: #e7e9fc;
 }
-.header .logo {
-  color: #2e2f42;
+.logo {
+  color: #4d5ae5;
   font-weight: 700;
   font-family: "Raleway", sans-serif;
-  font-size: 1.125rem;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase
 }
 .header .web {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .header .menu-list a,
 .header .contact-list a {
