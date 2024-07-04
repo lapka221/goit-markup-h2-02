@@ -90,7 +90,7 @@ a {
 
 .btn:hover,
 .btn:focus{
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .tech {
