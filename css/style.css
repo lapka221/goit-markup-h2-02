@@ -45,6 +45,8 @@ h1 {
 .menu-link{
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #2e2f42;
 }
 
 .menu-link:hover, 
@@ -54,11 +56,6 @@ h1 {
 .contact-link:active
 .contact-link:focus{
   color: #404bbf;
-}
-
-.menu-list {
-  font-weight: 500;
-  color: #2e2f42;
 }
 
 .contact-list{
