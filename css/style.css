@@ -13,18 +13,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #434455;
-  background-color: #FFFFFF;
-}
-
-.container {
-  width: 1130px;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-ul,
-ol {
-  padding: 0;
+  background-color: #ffffff;
 }
 
 ul {
@@ -43,17 +32,7 @@ h1 {
 }
 
 .header {
-  padding: 24px;
   background: #e7e9fc;
-}
-.header .container {
-  display: flex;
-  justify-content: space-between;
-}
-.header .wrapper {
-  display: flex;
-  justify-content: center;
-  gap: 76px;
 }
 .header .logo {
   color: #2e2f42;
@@ -63,12 +42,6 @@ h1 {
 }
 .header .web {
   color: #4d5ae5;
-}
-.header .menu-list,
-.header .contact-list {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
 }
 .header .menu-list a,
 .header .contact-list a {
@@ -81,14 +54,10 @@ h1 {
 
 .hero {
   text-align: center;
-  padding: 188px;
   background: #2e2f42;
 }
 .hero .btn {
   margin-top: 48px;
-  border-radius: 4px;
-  padding: 16px 32px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   border: 0;
   font-weight: 500;
@@ -98,12 +67,6 @@ h1 {
 .tech {
   margin-top: 94px;
   margin-bottom: 120px;
-}
-.tech .tech-list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 24px;
 }
 .tech .tech-list h3 {
   font-size: 1.25rem;
@@ -115,7 +78,6 @@ h1 {
 }
 
 .team {
-  padding: 120px 156px;
   background: #f4f4fd;
 }
 .team h2 {
@@ -125,17 +87,10 @@ h1 {
   text-align: center;
   margin-bottom: 72px;
 }
-.team .team-list {
-  display: flex;
-  justify-content: space-between;
-}
 .team .team-item {
   background: #fff;
-  border-radius: 0 0 4px 4px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 .team .team-text {
-  padding: 32px 49px;
   text-align: center;
 }
 .team .team-text h3 {
@@ -156,19 +111,9 @@ h1 {
   text-align: center;
   margin-bottom: 72px;
 }
-.portfolio .portfolio-list {
-  display: flex;
-  flex-wrap: wrap;
-}
 .portfolio .portfolio-item {
   margin-right: 15px;
   margin-bottom: 48px;
-}
-.portfolio .portfolio-item div {
-  padding: 32px 16px;
-  border-bottom: 1px solid #e7e9fc;
-  border-left: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
 }
 .portfolio .portfolio-item h3 {
   font-weight: 500;
@@ -181,7 +126,6 @@ h1 {
 
 .footer {
   background: #2e2f42;
-  padding: 100px;
 }
 .footer .logo {
   color: #f4f4fd;
