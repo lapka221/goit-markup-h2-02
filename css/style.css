@@ -41,17 +41,17 @@ h1 {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase
+  text-transform: uppercase;
 }
-.header .studio {
+.studio {
   color: #2e2f42;
 }
-.header .menu-list a,
-.header .contact-list a {
+.menu-list a,
+.contact-list a {
   font-weight: 500;
   color: #2e2f42;
 }
-.header .contact-item .contact-link {
+.contact-link {
   color: #434455;
 }
 
@@ -59,7 +59,7 @@ h1 {
   text-align: center;
   background: #2e2f42;
 }
-.hero .btn {
+.btn {
   margin-top: 48px;
   background: #4d5ae5;
   border: 0;
