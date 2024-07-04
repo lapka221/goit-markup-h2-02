@@ -97,13 +97,19 @@ a {
   margin-top: 94px;
   margin-bottom: 120px;
 }
-.tech .tech-list h3 {
-  font-size: 1.25rem;
+.list-header {
+  font-size: 20px;
   font-weight: 500;
-}
-.tech-list li {
-  color: #434455;
+  line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.tech-p{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .team {
