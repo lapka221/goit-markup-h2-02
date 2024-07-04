@@ -158,12 +158,15 @@ a {
   margin-right: 15px;
   margin-bottom: 48px;
 }
-.portfolio-item h3 {
+.port-header {
   font-weight: 500;
-  font-size: 1.25rem;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: #2e2f42;
 }
-.portfolio-item p {
+.port-p {
   color: #434455;
 }
 
