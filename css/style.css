@@ -4,12 +4,7 @@
   margin: 0;
 }
 
-html {
-  font-size: 16px;
-}
-
 body {
-  font-size: 1rem;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #434455;
@@ -46,12 +41,33 @@ h1 {
 .studio {
   color: #2e2f42;
 }
+
+.menu-link{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.menu-link:hover, 
+.menu-link:active,
+.contact-link:hover,
+.contact-link:active{
+  color: #404bbf;
+}
+
 .menu-list a,
 .contact-list a {
   font-weight: 500;
   color: #2e2f42;
 }
+
+.contact-list{
+  font-style: normal;
+}
+
 .contact-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
