@@ -130,7 +130,7 @@ h1 {
 .footer {
   background: #2e2f42;
 }
-.logo {
+.footer .logo {
   color: #4d5ae5;
   font-weight: 700;
   font-family: "Raleway", sans-serif;
@@ -139,7 +139,7 @@ h1 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.studio {
+.footer .studio {
   color: #f4f4fd;
 }
 .footer-p {
