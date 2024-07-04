@@ -49,13 +49,14 @@ h1 {
 
 .menu-link:hover, 
 .menu-link:active,
+.menu-link:focus,
 .contact-link:hover,
-.contact-link:active{
+.contact-link:active
+.contact-link:focus{
   color: #404bbf;
 }
 
-.menu-list a,
-.contact-list a {
+.menu-list {
   font-weight: 500;
   color: #2e2f42;
 }
