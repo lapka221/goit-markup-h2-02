@@ -74,8 +74,7 @@ h1 {
 .tech .tech-list h3 {
   font-size: 1.25rem;
   font-weight: 500;
-}
-.tech .tech-list li {
+} .tech-list li {
   color: #434455;
   letter-spacing: 0.02em;
 }
@@ -90,18 +89,18 @@ h1 {
   text-align: center;
   margin-bottom: 72px;
 }
-.team .team-item {
+.team-item {
   background: #fff;
 }
-.team .team-text {
+ .team-text {
   text-align: center;
 }
-.team .team-text h3 {
+.team-text h3 {
   font-size: 1.25rem;
   font-weight: 500;
   color: #2e2f42;
 }
-.team .team-text p {
+.team-text p {
   color: #434455;
   margin-top: 8px;
 }
@@ -114,30 +113,33 @@ h1 {
   text-align: center;
   margin-bottom: 72px;
 }
-.portfolio .portfolio-item {
+ .portfolio-item {
   margin-right: 15px;
   margin-bottom: 48px;
 }
-.portfolio .portfolio-item h3 {
+ .portfolio-item h3 {
   font-weight: 500;
   font-size: 1.25rem;
   color: #2e2f42;
 }
-.portfolio .portfolio-item p {
+ .portfolio-item p {
   color: #434455;
 }
 
 .footer {
   background: #2e2f42;
 }
-.footer .logo {
-  color: #f4f4fd;
+.logo {
+  color: #4d5ae5;
   font-weight: 700;
   font-family: "Raleway", sans-serif;
-  font-size: 1.125rem;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
-.footer .web {
-  color: #4d5ae5;
+.studio {
+  color: #2e2f42;
 }
 .footer p {
   margin-top: 16px;
