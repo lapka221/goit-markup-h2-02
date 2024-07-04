@@ -42,23 +42,23 @@ h1 {
   color: #2e2f42;
 }
 
-.menu-link{
+.menu-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: 500;
   color: #2e2f42;
 }
 
-.menu-link:hover, 
+.menu-link:hover,
 .menu-link:active,
 .menu-link:focus,
 .contact-link:hover,
-.contact-link:active
-.contact-link:focus{
+.contact-link:active,
+.contact-link:focus {
   color: #404bbf;
 }
 
-.contact-list{
+.contact-list {
   font-style: normal;
 }
 
