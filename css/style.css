@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-.hero-h1{
+.hero-h1 {
   font-family: "Roboto", sans-serif;
   font-size: 56px;
   font-weight: 700;
@@ -76,11 +76,21 @@ a {
   background: #2e2f42;
 }
 .btn {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   margin-top: 48px;
   background: #4d5ae5;
   border: 0;
   font-weight: 500;
   color: #fff;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus{
+  color: #404BBF;
 }
 
 .tech {
